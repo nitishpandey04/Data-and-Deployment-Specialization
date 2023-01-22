@@ -2,6 +2,14 @@
 
 **Specialization Name:** TensorFlow: Data and Deployment Specialization
 
+`Deleted files:
+browser - w3 - assignment - data
+lite - w2 - ungraded - android apps
+lite - w3 - ungraded - ios apps
+data - w4 - assignment - a2 - data
+advanced - w2 - ungraded - saved_model & models
+advanced - w3 - assignment - data`
+
 Below is the list of assignments and ungraded labs course-wise.
 
 # C1 - Browser-based Models with TensorFlow.js
