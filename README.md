@@ -2,7 +2,7 @@
 
 **Specialization Name:** TensorFlow: Data and Deployment Specialization
 
-`Deleted files:'
+`Deleted files:`
 - browser - w3 - assignment - data
 - lite - w2 - ungraded - android apps
 - lite - w3 - ungraded - ios apps
